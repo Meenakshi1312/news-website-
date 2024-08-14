@@ -1,2 +1,10 @@
-# news-website-
-**News Website Repository:** A fully responsive news website designed in Figma and developed using HTML and CSS. Features include modular CSS, semantic HTML, category-specific layouts, dark mode, and interactive elements. Clone the repo, customize the design, and deploy. Ideal for creating a modern, user-friendly news platform.
+
+  # Internship Project of News Website Design
+
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
+
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
